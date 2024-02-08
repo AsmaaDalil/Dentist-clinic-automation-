@@ -1,0 +1,63 @@
+C:\Users\ACAD CENTER\source\repos\DentalClinic\DentalClinic\bin\Debug\DentalClinic.exe.config
+C:\Users\ACAD CENTER\source\repos\DentalClinic\DentalClinic\bin\Debug\DentalClinic.exe
+C:\Users\ACAD CENTER\source\repos\DentalClinic\DentalClinic\bin\Debug\DentalClinic.pdb
+C:\Users\ACAD CENTER\source\repos\DentalClinic\DentalClinic\obj\Debug\DentalClinic.csproj.AssemblyReference.cache
+C:\Users\ACAD CENTER\source\repos\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Form1.resources
+C:\Users\ACAD CENTER\source\repos\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Properties.Resources.resources
+C:\Users\ACAD CENTER\source\repos\DentalClinic\DentalClinic\obj\Debug\DentalClinic.csproj.GenerateResource.cache
+C:\Users\ACAD CENTER\source\repos\DentalClinic\DentalClinic\obj\Debug\DentalClinic.csproj.CoreCompileInputs.cache
+C:\Users\ACAD CENTER\source\repos\DentalClinic\DentalClinic\obj\Debug\DentalClinic.exe
+C:\Users\ACAD CENTER\source\repos\DentalClinic\DentalClinic\obj\Debug\DentalClinic.pdb
+C:\Users\ACAD CENTER\source\repos\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Form3.resources
+C:\Users\ACAD CENTER\source\repos\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Form2.resources
+C:\Users\ACAD CENTER\source\repos\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Form4.resources
+C:\Users\ACAD CENTER\source\repos\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Form5.resources
+D:\مشروع البرمجة\DentalClinic\DentalClinic\bin\Debug\DentalClinic.exe.config
+D:\مشروع البرمجة\DentalClinic\DentalClinic\bin\Debug\DentalClinic.exe
+D:\مشروع البرمجة\DentalClinic\DentalClinic\bin\Debug\DentalClinic.pdb
+D:\مشروع البرمجة\DentalClinic\DentalClinic\obj\Debug\DentalClinic.csproj.AssemblyReference.cache
+D:\مشروع البرمجة\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Form1.resources
+D:\مشروع البرمجة\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Form2.resources
+D:\مشروع البرمجة\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Form3.resources
+D:\مشروع البرمجة\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Form4.resources
+D:\مشروع البرمجة\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Form5.resources
+D:\مشروع البرمجة\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Properties.Resources.resources
+D:\مشروع البرمجة\DentalClinic\DentalClinic\obj\Debug\DentalClinic.csproj.GenerateResource.cache
+D:\مشروع البرمجة\DentalClinic\DentalClinic\obj\Debug\DentalClinic.csproj.CoreCompileInputs.cache
+D:\مشروع البرمجة\DentalClinic\DentalClinic\obj\Debug\DentalClinic.exe
+D:\مشروع البرمجة\DentalClinic\DentalClinic\obj\Debug\DentalClinic.pdb
+D:\مشروع البرمجة\DentalClinic - Copy\DentalClinic\bin\Debug\DentalClinic.exe.config
+D:\مشروع البرمجة\DentalClinic - Copy\DentalClinic\bin\Debug\DentalClinic.exe
+D:\مشروع البرمجة\DentalClinic - Copy\DentalClinic\bin\Debug\DentalClinic.pdb
+D:\مشروع البرمجة\DentalClinic - Copy\DentalClinic\bin\Debug\ClassLibrary3.dll
+D:\مشروع البرمجة\DentalClinic - Copy\DentalClinic\bin\Debug\ClassLibrary3.pdb
+D:\مشروع البرمجة\DentalClinic - Copy\DentalClinic\obj\Debug\DentalClinic.csproj.AssemblyReference.cache
+D:\مشروع البرمجة\DentalClinic - Copy\DentalClinic\obj\Debug\DentalClinic.Form1.resources
+D:\مشروع البرمجة\DentalClinic - Copy\DentalClinic\obj\Debug\DentalClinic.Form2.resources
+D:\مشروع البرمجة\DentalClinic - Copy\DentalClinic\obj\Debug\DentalClinic.Form3.resources
+D:\مشروع البرمجة\DentalClinic - Copy\DentalClinic\obj\Debug\DentalClinic.Form4.resources
+D:\مشروع البرمجة\DentalClinic - Copy\DentalClinic\obj\Debug\DentalClinic.Form5.resources
+D:\مشروع البرمجة\DentalClinic - Copy\DentalClinic\obj\Debug\DentalClinic.Properties.Resources.resources
+D:\مشروع البرمجة\DentalClinic - Copy\DentalClinic\obj\Debug\DentalClinic.csproj.GenerateResource.cache
+D:\مشروع البرمجة\DentalClinic - Copy\DentalClinic\obj\Debug\DentalClinic.csproj.CoreCompileInputs.cache
+D:\مشروع البرمجة\DentalClinic - Copy\DentalClinic\obj\Debug\DentalClinic.csproj.CopyComplete
+D:\مشروع البرمجة\DentalClinic - Copy\DentalClinic\obj\Debug\DentalClinic.exe
+D:\مشروع البرمجة\DentalClinic - Copy\DentalClinic\obj\Debug\DentalClinic.pdb
+C:\Users\ACAD CENTER\Desktop\جامعة\اتمتة عيادة طبيب اسنان 2 متقدم مشروع برمجة\DentalClinic - Copy\DentalClinic\bin\Debug\DentalClinic.exe.config
+C:\Users\ACAD CENTER\Desktop\جامعة\اتمتة عيادة طبيب اسنان 2 متقدم مشروع برمجة\DentalClinic - Copy\DentalClinic\bin\Debug\DentalClinic.exe
+C:\Users\ACAD CENTER\Desktop\جامعة\اتمتة عيادة طبيب اسنان 2 متقدم مشروع برمجة\DentalClinic - Copy\DentalClinic\bin\Debug\DentalClinic.pdb
+C:\Users\ACAD CENTER\Desktop\جامعة\اتمتة عيادة طبيب اسنان 2 متقدم مشروع برمجة\DentalClinic - Copy\DentalClinic\bin\Debug\ClassLibrary3.dll
+C:\Users\ACAD CENTER\Desktop\جامعة\اتمتة عيادة طبيب اسنان 2 متقدم مشروع برمجة\DentalClinic - Copy\DentalClinic\bin\Debug\ClassLibrary3.pdb
+C:\Users\ACAD CENTER\Desktop\جامعة\اتمتة عيادة طبيب اسنان 2 متقدم مشروع برمجة\DentalClinic - Copy\DentalClinic\obj\Debug\DentalClinic.csproj.AssemblyReference.cache
+C:\Users\ACAD CENTER\Desktop\جامعة\اتمتة عيادة طبيب اسنان 2 متقدم مشروع برمجة\DentalClinic - Copy\DentalClinic\obj\Debug\DentalClinic.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACAD CENTER\Desktop\جامعة\اتمتة عيادة طبيب اسنان 2 متقدم مشروع برمجة\DentalClinic - Copy\DentalClinic\obj\Debug\DentalClinic.Form1.resources
+C:\Users\ACAD CENTER\Desktop\جامعة\اتمتة عيادة طبيب اسنان 2 متقدم مشروع برمجة\DentalClinic - Copy\DentalClinic\obj\Debug\DentalClinic.Form2.resources
+C:\Users\ACAD CENTER\Desktop\جامعة\اتمتة عيادة طبيب اسنان 2 متقدم مشروع برمجة\DentalClinic - Copy\DentalClinic\obj\Debug\DentalClinic.Form3.resources
+C:\Users\ACAD CENTER\Desktop\جامعة\اتمتة عيادة طبيب اسنان 2 متقدم مشروع برمجة\DentalClinic - Copy\DentalClinic\obj\Debug\DentalClinic.Form4.resources
+C:\Users\ACAD CENTER\Desktop\جامعة\اتمتة عيادة طبيب اسنان 2 متقدم مشروع برمجة\DentalClinic - Copy\DentalClinic\obj\Debug\DentalClinic.Form5.resources
+C:\Users\ACAD CENTER\Desktop\جامعة\اتمتة عيادة طبيب اسنان 2 متقدم مشروع برمجة\DentalClinic - Copy\DentalClinic\obj\Debug\DentalClinic.Properties.Resources.resources
+C:\Users\ACAD CENTER\Desktop\جامعة\اتمتة عيادة طبيب اسنان 2 متقدم مشروع برمجة\DentalClinic - Copy\DentalClinic\obj\Debug\DentalClinic.csproj.GenerateResource.cache
+C:\Users\ACAD CENTER\Desktop\جامعة\اتمتة عيادة طبيب اسنان 2 متقدم مشروع برمجة\DentalClinic - Copy\DentalClinic\obj\Debug\DentalClinic.csproj.CoreCompileInputs.cache
+C:\Users\ACAD CENTER\Desktop\جامعة\اتمتة عيادة طبيب اسنان 2 متقدم مشروع برمجة\DentalClinic - Copy\DentalClinic\obj\Debug\DentalClinic.csproj.CopyComplete
+C:\Users\ACAD CENTER\Desktop\جامعة\اتمتة عيادة طبيب اسنان 2 متقدم مشروع برمجة\DentalClinic - Copy\DentalClinic\obj\Debug\DentalClinic.exe
+C:\Users\ACAD CENTER\Desktop\جامعة\اتمتة عيادة طبيب اسنان 2 متقدم مشروع برمجة\DentalClinic - Copy\DentalClinic\obj\Debug\DentalClinic.pdb

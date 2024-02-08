@@ -1,0 +1,20 @@
+C:\Users\wael\source\repos\WindowsFormsApp34\bin\Debug\WindowsFormsApp34.exe.config
+C:\Users\wael\source\repos\WindowsFormsApp34\bin\Debug\WindowsFormsApp34.exe
+C:\Users\wael\source\repos\WindowsFormsApp34\bin\Debug\WindowsFormsApp34.pdb
+C:\Users\wael\source\repos\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.csproj.AssemblyReference.cache
+C:\Users\wael\source\repos\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.Form1.resources
+C:\Users\wael\source\repos\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.Properties.Resources.resources
+C:\Users\wael\source\repos\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.csproj.GenerateResource.cache
+C:\Users\wael\source\repos\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.csproj.CoreCompileInputs.cache
+C:\Users\wael\source\repos\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.exe
+C:\Users\wael\source\repos\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.pdb
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\WindowsFormsApp34\bin\Debug\WindowsFormsApp34.exe.config
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\WindowsFormsApp34\bin\Debug\WindowsFormsApp34.exe
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\WindowsFormsApp34\bin\Debug\WindowsFormsApp34.pdb
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.csproj.AssemblyReference.cache
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.Form1.resources
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.Properties.Resources.resources
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.csproj.GenerateResource.cache
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.csproj.CoreCompileInputs.cache
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.exe
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.pdb

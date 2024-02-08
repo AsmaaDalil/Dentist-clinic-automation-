@@ -1,0 +1,11 @@
+C:\Users\ACAD CENTER\Desktop\1\PagesOfProject\bin\Debug\PagesOfProject.exe.config
+C:\Users\ACAD CENTER\Desktop\1\PagesOfProject\bin\Debug\PagesOfProject.exe
+C:\Users\ACAD CENTER\Desktop\1\PagesOfProject\bin\Debug\PagesOfProject.pdb
+C:\Users\ACAD CENTER\Desktop\1\PagesOfProject\obj\Debug\PagesOfProject.csproj.AssemblyReference.cache
+C:\Users\ACAD CENTER\Desktop\1\PagesOfProject\obj\Debug\PagesOfProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACAD CENTER\Desktop\1\PagesOfProject\obj\Debug\PagesOfProject.Form1.resources
+C:\Users\ACAD CENTER\Desktop\1\PagesOfProject\obj\Debug\PagesOfProject.Properties.Resources.resources
+C:\Users\ACAD CENTER\Desktop\1\PagesOfProject\obj\Debug\PagesOfProject.csproj.GenerateResource.cache
+C:\Users\ACAD CENTER\Desktop\1\PagesOfProject\obj\Debug\PagesOfProject.csproj.CoreCompileInputs.cache
+C:\Users\ACAD CENTER\Desktop\1\PagesOfProject\obj\Debug\PagesOfProject.exe
+C:\Users\ACAD CENTER\Desktop\1\PagesOfProject\obj\Debug\PagesOfProject.pdb

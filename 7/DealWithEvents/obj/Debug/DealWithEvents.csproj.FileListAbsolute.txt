@@ -1,0 +1,10 @@
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\7\DealWithEvents\bin\Debug\DealWithEvents.exe.config
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\7\DealWithEvents\bin\Debug\DealWithEvents.exe
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\7\DealWithEvents\bin\Debug\DealWithEvents.pdb
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\7\DealWithEvents\obj\Debug\DealWithEvents.csproj.AssemblyReference.cache
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\7\DealWithEvents\obj\Debug\DealWithEvents.Form1.resources
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\7\DealWithEvents\obj\Debug\DealWithEvents.Properties.Resources.resources
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\7\DealWithEvents\obj\Debug\DealWithEvents.csproj.GenerateResource.cache
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\7\DealWithEvents\obj\Debug\DealWithEvents.csproj.CoreCompileInputs.cache
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\7\DealWithEvents\obj\Debug\DealWithEvents.exe
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\7\DealWithEvents\obj\Debug\DealWithEvents.pdb

@@ -1,0 +1,5 @@
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\2\MathClassLibrary\ClassLibrary1\bin\x64\Release\ClassLibrary1.dll
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\2\MathClassLibrary\ClassLibrary1\bin\x64\Release\ClassLibrary1.pdb
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\2\MathClassLibrary\ClassLibrary1\obj\x64\Release\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\2\MathClassLibrary\ClassLibrary1\obj\x64\Release\ClassLibrary1.dll
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\2\MathClassLibrary\ClassLibrary1\obj\x64\Release\ClassLibrary1.pdb

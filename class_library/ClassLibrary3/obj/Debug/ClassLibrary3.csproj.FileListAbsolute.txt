@@ -1,0 +1,11 @@
+C:\Users\ACAD CENTER\source\repos\class_library\ClassLibrary3\bin\Debug\ClassLibrary3.dll
+C:\Users\ACAD CENTER\source\repos\class_library\ClassLibrary3\bin\Debug\ClassLibrary3.pdb
+C:\Users\ACAD CENTER\source\repos\class_library\ClassLibrary3\obj\Debug\ClassLibrary3.csproj.CoreCompileInputs.cache
+C:\Users\ACAD CENTER\source\repos\class_library\ClassLibrary3\obj\Debug\ClassLibrary3.dll
+C:\Users\ACAD CENTER\source\repos\class_library\ClassLibrary3\obj\Debug\ClassLibrary3.pdb
+D:\مشروع البرمجة\class_library\ClassLibrary3\bin\Debug\ClassLibrary3.dll
+D:\مشروع البرمجة\class_library\ClassLibrary3\bin\Debug\ClassLibrary3.pdb
+D:\مشروع البرمجة\class_library\ClassLibrary3\obj\Debug\ClassLibrary3.csproj.CoreCompileInputs.cache
+D:\مشروع البرمجة\class_library\ClassLibrary3\obj\Debug\ClassLibrary3.dll
+D:\مشروع البرمجة\class_library\ClassLibrary3\obj\Debug\ClassLibrary3.pdb
+D:\مشروع البرمجة\class_library\ClassLibrary3\obj\Debug\ClassLibrary3.csproj.AssemblyReference.cache

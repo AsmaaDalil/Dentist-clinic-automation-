@@ -1,0 +1,23 @@
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\2\MathForm\MathForm\bin\x64\Debug\MathForm.exe.config
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\2\MathForm\MathForm\bin\x64\Debug\MathForm.exe
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\2\MathForm\MathForm\bin\x64\Debug\MathForm.pdb
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\2\MathForm\MathForm\obj\x64\Debug\MathForm.csproj.AssemblyReference.cache
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\2\MathForm\MathForm\obj\x64\Debug\MathForm.Form1.resources
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\2\MathForm\MathForm\obj\x64\Debug\MathForm.Properties.Resources.resources
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\2\MathForm\MathForm\obj\x64\Debug\MathForm.csproj.GenerateResource.cache
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\2\MathForm\MathForm\obj\x64\Debug\MathForm.csproj.CoreCompileInputs.cache
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\2\MathForm\MathForm\obj\x64\Debug\MathForm.exe
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\2\MathForm\MathForm\obj\x64\Debug\MathForm.pdb
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\2\MathForm\MathForm\obj\x64\Debug\MathForm.csproj.CopyComplete
+C:\Users\ACAD CENTER\Desktop\برمجة\2\MathForm\MathForm\bin\x64\Debug\MathForm.exe.config
+C:\Users\ACAD CENTER\Desktop\برمجة\2\MathForm\MathForm\bin\x64\Debug\MathForm.exe
+C:\Users\ACAD CENTER\Desktop\برمجة\2\MathForm\MathForm\bin\x64\Debug\MathForm.pdb
+C:\Users\ACAD CENTER\Desktop\برمجة\2\MathForm\MathForm\obj\x64\Debug\MathForm.csproj.AssemblyReference.cache
+C:\Users\ACAD CENTER\Desktop\برمجة\2\MathForm\MathForm\obj\x64\Debug\MathForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACAD CENTER\Desktop\برمجة\2\MathForm\MathForm\obj\x64\Debug\MathForm.Form1.resources
+C:\Users\ACAD CENTER\Desktop\برمجة\2\MathForm\MathForm\obj\x64\Debug\MathForm.Properties.Resources.resources
+C:\Users\ACAD CENTER\Desktop\برمجة\2\MathForm\MathForm\obj\x64\Debug\MathForm.csproj.GenerateResource.cache
+C:\Users\ACAD CENTER\Desktop\برمجة\2\MathForm\MathForm\obj\x64\Debug\MathForm.csproj.CoreCompileInputs.cache
+C:\Users\ACAD CENTER\Desktop\برمجة\2\MathForm\MathForm\obj\x64\Debug\MathForm.csproj.CopyComplete
+C:\Users\ACAD CENTER\Desktop\برمجة\2\MathForm\MathForm\obj\x64\Debug\MathForm.exe
+C:\Users\ACAD CENTER\Desktop\برمجة\2\MathForm\MathForm\obj\x64\Debug\MathForm.pdb

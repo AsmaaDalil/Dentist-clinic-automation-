@@ -1,0 +1,10 @@
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\8\GenricClass\bin\Debug\GenricClass.exe.config
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\8\GenricClass\bin\Debug\GenricClass.exe
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\8\GenricClass\bin\Debug\GenricClass.pdb
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\8\GenricClass\obj\Debug\GenricClass.csproj.AssemblyReference.cache
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\8\GenricClass\obj\Debug\GenricClass.Form1.resources
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\8\GenricClass\obj\Debug\GenricClass.Properties.Resources.resources
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\8\GenricClass\obj\Debug\GenricClass.csproj.GenerateResource.cache
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\8\GenricClass\obj\Debug\GenricClass.csproj.CoreCompileInputs.cache
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\8\GenricClass\obj\Debug\GenricClass.exe
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\8\GenricClass\obj\Debug\GenricClass.pdb

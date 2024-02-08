@@ -1,0 +1,10 @@
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\6\DealWithDelgate\bin\Debug\DealWithDelgate.exe.config
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\6\DealWithDelgate\bin\Debug\DealWithDelgate.exe
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\6\DealWithDelgate\bin\Debug\DealWithDelgate.pdb
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\6\DealWithDelgate\obj\Debug\DealWithDelgate.csproj.AssemblyReference.cache
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\6\DealWithDelgate\obj\Debug\DealWithDelgate.Form1.resources
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\6\DealWithDelgate\obj\Debug\DealWithDelgate.Properties.Resources.resources
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\6\DealWithDelgate\obj\Debug\DealWithDelgate.csproj.GenerateResource.cache
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\6\DealWithDelgate\obj\Debug\DealWithDelgate.csproj.CoreCompileInputs.cache
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\6\DealWithDelgate\obj\Debug\DealWithDelgate.exe
+D:\course\2022-2023\2nd\Idilb University\2\Advanced Programming 2\Practical Lecture\6\DealWithDelgate\obj\Debug\DealWithDelgate.pdb
